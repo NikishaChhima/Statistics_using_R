@@ -9,10 +9,8 @@ In this project, I demonstrated analytical and computational skills such as R/RS
 
 - R/RStudio
 - R Markdown
-- R Script?
+- R Script
 
-<h2>Project Setup:</h2>
-For this project, I started off by ...
 </p>
 
 <!--
